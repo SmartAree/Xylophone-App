@@ -1,3 +1,4 @@
 # Xylophone-App
 
-![Screenshot_1607690414](https://user-images.githubusercontent.com/41040479/101904726-1965aa80-3bd8-11eb-9bda-8616b87ffebc.png)
+![xylo](https://user-images.githubusercontent.com/41040479/119662464-486a8400-bde6-11eb-84bd-72a358cb4c26.png)
+
